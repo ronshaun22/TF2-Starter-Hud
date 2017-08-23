@@ -2421,7 +2421,7 @@ Scheme
 		}
 		
 		//
-		//////////////////// ECON FONTS //////////////////////////////
+		//////////////////// ECON FONTS ////////////////////////////// CONTAINS ALL CUSTOM FONT DEFINITIONS
 		//
 		"EconFontSmall"
 		{
@@ -2507,5 +2507,139 @@ Scheme
 				"dropshadow"	"1"
 			}
 		}
+		
+		"CodeProBold55"		// Primary Font
+		{
+			"1"
+			{
+				"name"			"Code-Pro-Bold"
+				"tall"			"55"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"CodeProBold40"			// Primary Font
+		{
+			"1"
+			{
+				"name"			"Code-Pro-Bold"
+				"tall"			"40"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"CodeProBold25"		// Primary Font
+		{
+			"1"
+			{
+				"name"			"Code-Pro-Bold"
+				"tall"			"25"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"CodeProBold20"	// Primary Font
+		{
+			"1"
+			{
+				"name"			"Code-Pro-Bold"
+				"tall"			"20"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias" 	"1"
+			}
+		}
+		
+		"CodeProBold16"		// Primary Font
+		{
+			"1"
+			{
+				"name"			"Code-Pro-Bold"
+				"tall"			"16"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias" 	"1"
+			}
+		}
+		
+		"CodeProBold14"		// Primary Font
+		{
+			"1"
+			{
+				"name"			"Code-Pro-Bold"
+				"tall"			"14"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias" 	"1"
+			}
+		}
+
+		"CodeProLC25"		// Secondary Font
+		{
+			"1"
+			{
+				"name"			"Code-Pro-LC"
+				"tall"			"25"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias" 	"1"
+			}
+		}
+		
+		"CodeProLC19"		// Secondary Font
+		{
+			"1"
+			{
+				"name"			"Code-Pro-LC"
+				"tall"			"19"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias" 	"1"
+			}
+		}
+		
+		"CodeProLC16"	// Secondary Font
+		{
+			"1"
+			{
+				"name"			"Code-Pro-LC"
+				"tall"			"16"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias" 	"1"
+			}
+		}
+		
+		"CodeProLC10"		// Secondary Font
+		{
+			"1"
+			{
+				"name"			"Code-Pro-LC"
+				"tall"			"10"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias" 	"1"
+			}
+		}
+		
+		"CodeProLC8"		// Secondary Font
+		{
+			"1"
+			{
+				"name"			"Code-Pro-LC"
+				"tall"			"8"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias" 	"1"
+				"dropshadow"	"0"
+			}
+		}
+		
 	}
 }
