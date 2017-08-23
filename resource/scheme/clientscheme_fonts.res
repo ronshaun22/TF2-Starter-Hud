@@ -2541,6 +2541,41 @@ Scheme
 			}
 		}
 		
+		"CodeProBoldOutline20"
+		{
+			"1"
+			{
+				"name"		"Code-Pro-Bold"
+				"tall"		"20"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		
+		"CodeProBold22"
+		{
+			"1"
+			{
+				"name"		"Code-Pro-Bold"
+				"tall"		"22"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+		"CodeProBoldOutline22"
+		{
+			"1"
+			{
+				"name"		"Code-Pro-Bold"
+				"tall"		"20"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		
 		"CodeProBold24"
 		{
 			"1"

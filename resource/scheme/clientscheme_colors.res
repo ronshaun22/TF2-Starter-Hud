@@ -181,5 +181,9 @@ Scheme
 		"UpgradeSelectedBg"		"249 138 83 255"
 		"UpgradeDisabledFg"		"64 59 52 255"
 		"UpgradeDisabledBg"		"79 77 68 255"
+		
+		//Custom Colors
+		"G_Hit"						"234 218 43 255"	// Damage Taken
+		"Heal Numbers"				"48 255 48 255"
 	}
 }
