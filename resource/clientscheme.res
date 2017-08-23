@@ -1,18 +1,19 @@
-#base "scheme/clientscheme_colors.res"
-#base "scheme/clientscheme_basesettings.res"
-#base "scheme/clientscheme_fonts.res"
 #base "scheme/clientscheme_borders.res"
+#base "scheme/clientscheme_colors.res"
+#base "scheme/clientscheme_fonts.res"
+#base "scheme/clientscheme_basesettings.res"
 //
 // TRACKER SCHEME RESOURCE FILE
 //
 // sections:
-//		colors			- all the colors used by the scheme - code located in "clientscheme_colors"
-//		basesettings	- contains settings for app to use to draw controls - code located in "clientscheme_basesettings"
-//		fonts			- list of all the fonts used by app - code located in "clientscheme_fonts"
-//		borders			- description of all the borders - code located in "clientscheme_borders"
+//		colors			- all the colors used by the scheme
+//		basesettings	- contains settings for app to use to draw controls
+//		fonts			- list of all the fonts used by app
+//		borders			- description of all the borders
 //
 //
-
+Scheme
+{
 	//////////////////////// CUSTOM FONT FILES /////////////////////////////
 	//
 	// specifies all the custom (non-system) font files that need to be loaded to service the above described fonts
@@ -80,14 +81,5 @@
 			}
 		}			
 		"7" "resource/ocra.ttf"
-		"8"
-		{
-			"font" "resource/fonts/CodeProBold.otf"
-			"name" "Code-Pro-Bold"
-		}
-		"9"
-		{
-			"font" "resource/fonts/CodeProLC.otf"
-			"name" "Code-Pro-LC"
-		}
 	}
+}

@@ -1,6 +1,6 @@
 Scheme
 {
-	//////////////////////// BITMAP FONT FILES /////////////////////////////
+//////////////////////// BITMAP FONT FILES /////////////////////////////
 	//
 	// Bitmap Fonts are ****VERY*** expensive static memory resources so they are purposely sparse
 	BitmapFontFiles
@@ -2421,7 +2421,7 @@ Scheme
 		}
 		
 		//
-		//////////////////// ECON FONTS ////////////////////////////// CONTAINS ALL CUSTOM FONT DEFINITIONS
+		//////////////////// ECON FONTS //////////////////////////////
 		//
 		"EconFontSmall"
 		{
@@ -2508,138 +2508,81 @@ Scheme
 			}
 		}
 		
-		"CodeProBold55"		// Primary Font
+		"CodeProBold12"
 		{
 			"1"
 			{
-				"name"			"Code-Pro-Bold"
-				"tall"			"55"
-				"weight"		"0"
-				"additive"		"0"
-				"antialias"		"1"
+				"name"		"Code-Pro-Bold"
+				"tall"		"12"
+				"additive"	"0"
+				"antialias" "1"
 			}
 		}
 		
-		"CodeProBold40"			// Primary Font
+		"CodeProBold16"
 		{
 			"1"
 			{
-				"name"			"Code-Pro-Bold"
-				"tall"			"40"
-				"weight"		"0"
-				"additive"		"0"
-				"antialias"		"1"
+				"name"		"Code-Pro-Bold"
+				"tall"		"16"
+				"additive"	"0"
+				"antialias" "1"
 			}
 		}
 		
-		"CodeProBold25"		// Primary Font
+		"CodeProBold20"
 		{
 			"1"
 			{
-				"name"			"Code-Pro-Bold"
-				"tall"			"25"
-				"weight"		"0"
-				"additive"		"0"
-				"antialias"		"1"
+				"name"		"Code-Pro-Bold"
+				"tall"		"20"
+				"additive"	"0"
+				"antialias" "1"
 			}
 		}
 		
-		"CodeProBold20"	// Primary Font
+		"CodeProBold24"
 		{
 			"1"
 			{
-				"name"			"Code-Pro-Bold"
-				"tall"			"20"
-				"weight"		"0"
-				"additive"		"0"
-				"antialias" 	"1"
+				"name"		"Code-Pro-Bold"
+				"tall"		"24"
+				"additive"	"0"
+				"antialias" "1"
 			}
 		}
 		
-		"CodeProBold16"		// Primary Font
+		"CodeProBold26"
 		{
 			"1"
 			{
-				"name"			"Code-Pro-Bold"
-				"tall"			"16"
-				"weight"		"0"
-				"additive"		"0"
-				"antialias" 	"1"
+				"name"		"Code-Pro-Bold"
+				"tall"		"26"
+				"additive"	"0"
+				"antialias" "1"
 			}
 		}
 		
-		"CodeProBold14"		// Primary Font
+		"CodeProBold28"
 		{
 			"1"
 			{
-				"name"			"Code-Pro-Bold"
-				"tall"			"14"
-				"weight"		"0"
-				"additive"		"0"
-				"antialias" 	"1"
-			}
-		}
-
-		"CodeProLC25"		// Secondary Font
-		{
-			"1"
-			{
-				"name"			"Code-Pro-LC"
-				"tall"			"25"
-				"weight"		"0"
-				"additive"		"0"
-				"antialias" 	"1"
+				"name"		"Code-Pro-Bold"
+				"tall"		"28"
+				"additive"	"0"
+				"antialias" "1"
 			}
 		}
 		
-		"CodeProLC19"		// Secondary Font
+		"CodeProBold32"
 		{
 			"1"
 			{
-				"name"			"Code-Pro-LC"
-				"tall"			"19"
-				"weight"		"0"
-				"additive"		"0"
-				"antialias" 	"1"
+				"name"		"Code-Pro-Bold"
+				"tall"		"32"
+				"additive"	"0"
+				"antialias" "1"
 			}
 		}
-		
-		"CodeProLC16"	// Secondary Font
-		{
-			"1"
-			{
-				"name"			"Code-Pro-LC"
-				"tall"			"16"
-				"weight"		"0"
-				"additive"		"0"
-				"antialias" 	"1"
-			}
-		}
-		
-		"CodeProLC10"		// Secondary Font
-		{
-			"1"
-			{
-				"name"			"Code-Pro-LC"
-				"tall"			"10"
-				"weight"		"0"
-				"additive"		"0"
-				"antialias" 	"1"
-			}
-		}
-		
-		"CodeProLC8"		// Secondary Font
-		{
-			"1"
-			{
-				"name"			"Code-Pro-LC"
-				"tall"			"8"
-				"weight"		"0"
-				"additive"		"0"
-				"antialias" 	"1"
-				"dropshadow"	"0"
-			}
-		}
-		
 	}
 }

@@ -1,6 +1,6 @@
 Scheme
 {
-	///////////////////// BASE SETTINGS ////////////////////////
+///////////////////// BASE SETTINGS ////////////////////////
 	// default settings for all panels
 	// controls use these to determine their settings
 	BaseSettings
@@ -236,15 +236,5 @@ Scheme
 		"Main.BottomBorder"	"32"
 		
 		"VguiScreenCursor"			"255 208 64 255"
-	}
-
-	//////////////////////// BITMAP FONT FILES /////////////////////////////
-	//
-	// Bitmap Fonts are ****VERY*** expensive static memory resources so they are purposely sparse
-	BitmapFontFiles
-	{
-		// UI buttons, custom font, (256x64)
-		"Buttons"		"materials/vgui/fonts/buttons_32.vbf"
-		"ButtonsSC"		"materials/vgui/fonts/buttons_sc.vbf"
 	}
 }
